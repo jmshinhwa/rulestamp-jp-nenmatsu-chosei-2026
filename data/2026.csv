@@ -1,0 +1,22 @@
+table,from_over,to_max,value,salary_only,source_url,page,read
+basic_deduction,0,4890000,1040000,6655556,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,"3, 56",2026-10-24
+basic_deduction,4890000,6550000,670000,8500000,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,"3, 56",2026-10-24
+basic_deduction,6550000,23500000,620000,25450000,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,"3, 56",2026-10-24
+basic_deduction,23500000,24000000,480000,,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,56,2026-10-24
+basic_deduction,24000000,24500000,320000,,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,56,2026-10-24
+basic_deduction,24500000,25000000,160000,,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,56,2026-10-24
+basic_deduction,25000000,,0,,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,56,2026-10-24
+specified_relative_deduction,620000,850000,630000,136万円超159万円以下,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,56,2026-10-24
+specified_relative_deduction,850000,900000,610000,159万円超164万円以下,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,56,2026-10-24
+specified_relative_deduction,900000,950000,510000,164万円超169万円以下,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,56,2026-10-24
+specified_relative_deduction,950000,1000000,410000,169万円超174万円以下,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,56,2026-10-24
+specified_relative_deduction,1000000,1050000,310000,174万円超179万円以下,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,56,2026-10-24
+specified_relative_deduction,1050000,1100000,210000,179万円超184万円以下,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,56,2026-10-24
+specified_relative_deduction,1100000,1150000,110000,184万円超189万円以下,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,56,2026-10-24
+specified_relative_deduction,1150000,1200000,60000,189万円超194万円以下,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,56,2026-10-24
+specified_relative_deduction,1200000,1230000,30000,194万円超197万円以下,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,56,2026-10-24
+employment_income_special,0,741000,0,,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,"3, 47",2026-10-24
+employment_income_special,741000,2191000,salary - 740000,,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,"3, 47",2026-10-24
+employment_income_special,2191000,2193000,1451000,,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,"3, 47",2026-10-24
+employment_income_special,2193000,2196000,1453000,,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,"3, 47",2026-10-24
+employment_income_special,2196000,2200000,1456000,,https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf,"3, 47",2026-10-24

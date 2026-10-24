@@ -1,0 +1,410 @@
+{
+  "title": "令和8年分（2026年分）年末調整の主な金額",
+  "tax_year": 2026,
+  "era": "令和8年分",
+  "updated": "2026-10-24",
+  "official_index": {
+    "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/01.htm",
+    "read": "2026-10-24"
+  },
+  "notes": [
+    "金額は円。合計所得金額の区分は「以下・超」で、表の上限を含む。",
+    "改正後の金額は令和8年12月に行う年末調整から使う（令和8年11月までの源泉徴収事務は変わらない）。",
+    "給与だけの場合の収入金額は、特定支出控除・所得金額調整控除の適用がない場合の目安。"
+  ],
+  "basic_deduction": {
+    "name": "基礎控除額（令和8年分）",
+    "basis": "合計所得金額",
+    "bands": [
+      {
+        "gokei_over": 0,
+        "gokei_max": 4890000,
+        "salary_only_max": 6655556,
+        "deduction": 1040000,
+        "source": {
+          "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+          "page": "3, 56",
+          "read": "2026-10-24"
+        }
+      },
+      {
+        "gokei_over": 4890000,
+        "gokei_max": 6550000,
+        "salary_only_max": 8500000,
+        "deduction": 670000,
+        "source": {
+          "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+          "page": "3, 56",
+          "read": "2026-10-24"
+        }
+      },
+      {
+        "gokei_over": 6550000,
+        "gokei_max": 23500000,
+        "salary_only_max": 25450000,
+        "deduction": 620000,
+        "source": {
+          "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+          "page": "3, 56",
+          "read": "2026-10-24"
+        }
+      },
+      {
+        "gokei_over": 23500000,
+        "gokei_max": 24000000,
+        "salary_only_max": null,
+        "deduction": 480000,
+        "source": {
+          "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+          "page": "56",
+          "read": "2026-10-24"
+        }
+      },
+      {
+        "gokei_over": 24000000,
+        "gokei_max": 24500000,
+        "salary_only_max": null,
+        "deduction": 320000,
+        "source": {
+          "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+          "page": "56",
+          "read": "2026-10-24"
+        }
+      },
+      {
+        "gokei_over": 24500000,
+        "gokei_max": 25000000,
+        "salary_only_max": null,
+        "deduction": 160000,
+        "source": {
+          "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+          "page": "56",
+          "read": "2026-10-24"
+        }
+      },
+      {
+        "gokei_over": 25000000,
+        "gokei_max": null,
+        "salary_only_max": null,
+        "deduction": 0,
+        "source": {
+          "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+          "page": "56",
+          "read": "2026-10-24"
+        }
+      }
+    ],
+    "statutory_base": {
+      "amount": 620000,
+      "before_reform": 580000,
+      "law": "所得税法第86条",
+      "source": {
+        "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+        "page": "3",
+        "read": "2026-10-24"
+      }
+    }
+  },
+  "employment_income": {
+    "name": "給与所得控除後の給与等の金額（令和8年分）",
+    "minimum_employment_deduction": {
+      "amount": 740000,
+      "before_reform": 650000,
+      "years": "令和8・9年分",
+      "source": {
+        "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+        "page": "3",
+        "read": "2026-10-24"
+      }
+    },
+    "special_rows": [
+      {
+        "salary_from": 0,
+        "salary_below": 741000,
+        "income": 0,
+        "rule": "なし",
+        "source": {
+          "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+          "page": "3, 47",
+          "read": "2026-10-24"
+        }
+      },
+      {
+        "salary_from": 741000,
+        "salary_below": 2191000,
+        "income": "salary - 740000",
+        "source": {
+          "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+          "page": "3, 47",
+          "read": "2026-10-24"
+        }
+      },
+      {
+        "salary_from": 2191000,
+        "salary_below": 2193000,
+        "income": 1451000,
+        "source": {
+          "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+          "page": "3, 47",
+          "read": "2026-10-24"
+        }
+      },
+      {
+        "salary_from": 2193000,
+        "salary_below": 2196000,
+        "income": 1453000,
+        "source": {
+          "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+          "page": "3, 47",
+          "read": "2026-10-24"
+        }
+      },
+      {
+        "salary_from": 2196000,
+        "salary_below": 2200000,
+        "income": 1456000,
+        "source": {
+          "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+          "page": "3, 47",
+          "read": "2026-10-24"
+        }
+      }
+    ],
+    "table_rows": {
+      "salary_from": 2200000,
+      "salary_below": 6600000,
+      "step": 4000,
+      "rule": "給与等の金額を4,000円単位で切り捨てた額 L について、L < 3,600,000 は L×70% − 80,000、それ以外は L×80% − 440,000（表 47〜54ページと一致）",
+      "source": {
+        "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+        "page": "47-54",
+        "read": "2026-10-24"
+      }
+    },
+    "formula_rows": [
+      {
+        "salary_from": 6600000,
+        "salary_below": 8500000,
+        "income": "floor(salary × 90%) − 1,100,000",
+        "source": {
+          "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+          "page": "54",
+          "read": "2026-10-24"
+        }
+      },
+      {
+        "salary_from": 8500000,
+        "salary_below": 20000000,
+        "income": "salary − 1,950,000",
+        "source": {
+          "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+          "page": "54",
+          "read": "2026-10-24"
+        }
+      }
+    ],
+    "year_end_adjustment_limit": {
+      "salary_over": 20000000,
+      "rule": "本年中の主たる給与の収入金額が2,000万円を超える人は年末調整の対象外",
+      "source": {
+        "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+        "page": "5",
+        "read": "2026-10-24"
+      }
+    }
+  },
+  "income_lines": {
+    "name": "扶養親族等の所得要件（令和8年分）",
+    "rows": [
+      {
+        "who": "扶養親族・同一生計配偶者・ひとり親の生計を一にする子",
+        "gokei": "62万円以下",
+        "salary_only": "136万円以下",
+        "before_reform": "58万円以下（123万円以下）",
+        "source": {
+          "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+          "page": "4",
+          "read": "2026-10-24"
+        }
+      },
+      {
+        "who": "特定親族",
+        "gokei": "62万円超123万円以下",
+        "salary_only": "136万円超197万円以下",
+        "before_reform": "58万円超123万円以下（123万円超188万円以下）",
+        "source": {
+          "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+          "page": "4",
+          "read": "2026-10-24"
+        }
+      },
+      {
+        "who": "配偶者特別控除の対象となる配偶者",
+        "gokei": "62万円超133万円以下",
+        "salary_only": "136万円超207万円以下",
+        "before_reform": "58万円超133万円以下（123万円超201万5,999円以下）",
+        "source": {
+          "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+          "page": "4",
+          "read": "2026-10-24"
+        }
+      },
+      {
+        "who": "勤労学生",
+        "gokei": "89万円以下",
+        "salary_only": "163万円以下",
+        "before_reform": "85万円以下（150万円以下）",
+        "source": {
+          "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+          "page": "4",
+          "read": "2026-10-24"
+        }
+      }
+    ],
+    "applies_from": {
+      "rule": "令和8年12月1日以後に支払う給与等から適用",
+      "source": {
+        "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+        "page": "4",
+        "read": "2026-10-24"
+      }
+    }
+  },
+  "specified_relative_deduction": {
+    "name": "特定親族特別控除額（令和8年分） — 19歳以上23歳未満の親族",
+    "bands": [
+      {
+        "gokei_over": 620000,
+        "gokei_max": 850000,
+        "salary_only": "136万円超159万円以下",
+        "deduction": 630000
+      },
+      {
+        "gokei_over": 850000,
+        "gokei_max": 900000,
+        "salary_only": "159万円超164万円以下",
+        "deduction": 610000
+      },
+      {
+        "gokei_over": 900000,
+        "gokei_max": 950000,
+        "salary_only": "164万円超169万円以下",
+        "deduction": 510000
+      },
+      {
+        "gokei_over": 950000,
+        "gokei_max": 1000000,
+        "salary_only": "169万円超174万円以下",
+        "deduction": 410000
+      },
+      {
+        "gokei_over": 1000000,
+        "gokei_max": 1050000,
+        "salary_only": "174万円超179万円以下",
+        "deduction": 310000
+      },
+      {
+        "gokei_over": 1050000,
+        "gokei_max": 1100000,
+        "salary_only": "179万円超184万円以下",
+        "deduction": 210000
+      },
+      {
+        "gokei_over": 1100000,
+        "gokei_max": 1150000,
+        "salary_only": "184万円超189万円以下",
+        "deduction": 110000
+      },
+      {
+        "gokei_over": 1150000,
+        "gokei_max": 1200000,
+        "salary_only": "189万円超194万円以下",
+        "deduction": 60000
+      },
+      {
+        "gokei_over": 1200000,
+        "gokei_max": 1230000,
+        "salary_only": "194万円超197万円以下",
+        "deduction": 30000
+      }
+    ],
+    "source": {
+      "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+      "page": "56",
+      "read": "2026-10-24"
+    }
+  },
+  "life_insurance_under23": {
+    "name": "年齢23歳未満の扶養親族を有する場合の一般生命保険料控除（新契約・令和8・9年分）",
+    "bands": [
+      {
+        "premium_max": 30000,
+        "deduction": "保険料の全額"
+      },
+      {
+        "premium_over": 30000,
+        "premium_max": 60000,
+        "deduction": "保険料 × 1/2 + 15,000"
+      },
+      {
+        "premium_over": 60000,
+        "premium_max": 120000,
+        "deduction": "保険料 × 1/4 + 30,000"
+      },
+      {
+        "premium_over": 120000,
+        "deduction": 60000
+      }
+    ],
+    "general_limit": {
+      "amount": 60000,
+      "before_reform": 40000
+    },
+    "total_limit": 120000,
+    "source": {
+      "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+      "page": "4",
+      "read": "2026-10-24"
+    }
+  },
+  "deadlines": [
+    {
+      "what": "年末調整で源泉徴収した所得税・復興特別所得税の納期限",
+      "date": "2027-01-12",
+      "jp": "令和9年1月12日（火）",
+      "source": {
+        "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+        "page": "表紙（PDF 1ページ目）",
+        "read": "2026-10-24"
+      }
+    },
+    {
+      "what": "同上（納期の特例の承認を受けている場合）",
+      "date": "2027-01-20",
+      "jp": "令和9年1月20日（水）",
+      "source": {
+        "url": "https://www.nta.go.jp/publication/pamph/gensen/nencho2026/pdf/nencho_all.pdf",
+        "page": "表紙（PDF 1ページ目）",
+        "read": "2026-10-24"
+      }
+    }
+  ],
+  "forms_changed": [
+    {
+      "form": "令和8年分 給与所得者の基礎控除申告書 兼 配偶者控除等申告書 兼 特定親族特別控除申告書 兼 所得金額調整控除申告書",
+      "change": "「基礎控除申告書」と「特定親族特別控除申告書」の「控除額の計算」の表、「配偶者控除等申告書」の「判定」欄を改正後の金額に修正",
+      "source": {
+        "url": "https://www.nta.go.jp/users/gensen/nencho_shorui/index.htm",
+        "read": "2026-10-24"
+      }
+    },
+    {
+      "form": "令和8年分 給与所得者の保険料控除申告書",
+      "change": "「生命保険料控除」欄に、23歳未満の扶養親族を有する場合の特例に対応した記載欄を追加",
+      "source": {
+        "url": "https://www.nta.go.jp/users/gensen/nencho_shorui/index.htm",
+        "read": "2026-10-24"
+      }
+    }
+  ]
+}
